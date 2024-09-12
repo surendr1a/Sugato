@@ -9,7 +9,7 @@ const Cart = () => {
   if (!data || !Array.isArray(data) || data.length === 0) {
     return (
       <div>
-        <div></div>
+        <div>ese hi likh diya push krne ke liye</div>
         <div className='m-5 w-100 text-center fs-3'>The Cart is Empty!</div>
       </div>
     );
